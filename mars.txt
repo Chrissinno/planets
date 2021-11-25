@@ -1,1 +1,2 @@
-This is information about Mars. 
+This is information about Mars.
+This is new info 
